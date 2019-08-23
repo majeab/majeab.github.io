@@ -1,0 +1,57 @@
+p {
+  color: rgb(black); <! -- or you can also type blue
+}
+
+#introduction {
+  background-color:pink;
+  font-size: 64;
+  font-family:;
+}
+
+#bob {
+  background-color: rgb(209,207,207)
+}
+
+#Linda{
+  background-color: rgb(232,19,19)
+}
+
+#Tina{
+  background-color: rgb(180,228,237)
+}
+
+#Gene{
+  background-color: rgb(242,250,12)
+}
+
+#Louise{
+  background-color: rgb(156,242,116)
+}
+body {
+  background-color: pink;
+}
+
+#BBT{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#chalkboard{
+  display>:block;
+  background-color: black;
+  width= 50% height=160
+}
+
+#BBP{
+  display : block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+table, td, tr {
+  border: 2px solid black;
+
+}
